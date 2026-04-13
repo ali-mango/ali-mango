@@ -6,10 +6,10 @@
   <a href="mailto:alysaemilio@gmail.com">
     <img src="https://img.shields.io/badge/Email-alysaemilio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://alysaemilio2026.vercel.app">
+  <a href="https://alysaemilioportfolio2026.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/rasberriali">
+  <a href="https://github.com/ali-mango">
     <img src="https://img.shields.io/badge/GitHub-rasberriali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/alysa-juliana-emilio-33a195227/">
