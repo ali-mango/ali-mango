@@ -60,6 +60,7 @@ I enjoy creating systems that are not just functional, but also **clean, scalabl
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=22C55E)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Supabase](https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=3ECF8E)
